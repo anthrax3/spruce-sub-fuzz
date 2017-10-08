@@ -1,0 +1,38 @@
+$FonOutline1Color = 2
+$WipeOutline2Color = 2
+$WipeBackgroundColor = 4
+$WipeTextContrast = 15
+$WipeOutline1Contrast = 15
+$WipeOutline2Contrast = 0
+$WipeBackgroundContrast = 0
+01:24:21:08, 01:24:24:20, What I like about you
+{
+WipeInfo: 41, 145, 405, 290, 454, 10, 0, Left,
+145,600
+WipeInfo: 51, 300, 405, 378, 454, 10, 0, Left,
+145,600
+WipeInfo: 61, 390, 405, 515, 454, 12, 0, Left,
+145,600
+WipeInfo: 79, 515, 405, 600, 454, 4, 0, Left,
+145,600
+}
+01:24:24:20, 01:24:27:20, Ya hold me tiiiiight
+{
+WipeInfo: 40, 173, 405, 230, 454, 5, 0, Left,
+173,580
+WipeInfo: 45, 240, 405, 422, 454, 10, 0, Left,
+173,580
+WipeInfo: 60, 422, 405, 580, 454, 20, 0, Left,
+173,580
+}
+01:24:27:20, 01:24:31:02, Tell me I’m the only one
+{
+WipeInfo: 59, 110, 405, 270, 454, 11, 0, Left,
+110,635
+WipeInfo: 70, 280, 405, 440, 454, 8, 0, Left,
+110,635
+WipeInfo: 78, 450, 405, 540, 454, 16, 0, Left,
+110,635
+WipeInfo: 96, 555, 405, 635, 454, 2, 0, Left,
+110,635
+}

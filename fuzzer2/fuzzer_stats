@@ -1,0 +1,27 @@
+start_time        : 1507427778
+last_update       : 1507473784
+fuzzer_pid        : 24372
+cycles_done       : 207
+execs_done        : 5831622
+execs_per_sec     : 209.84
+paths_total       : 828
+paths_favored     : 71
+paths_found       : 322
+paths_imported    : 505
+max_depth         : 5
+cur_path          : 59
+pending_favs      : 0
+pending_total     : 1
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 4.46%
+unique_crashes    : 0
+unique_hangs      : 0
+last_path         : 1507472974
+last_crash        : 0
+last_hang         : 0
+execs_since_crash : 5831622
+exec_timeout      : 280
+afl_banner        : fuzzer2
+afl_version       : 2.51b
+command_line      : afl-2.51b/afl-fuzz -i spruce_tests/ -o spruce_sub_fuzz/ -m none -S fuzzer2 -- FFmpeg-master/ffmpeg -f stl -i -
